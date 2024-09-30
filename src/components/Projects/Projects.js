@@ -36,19 +36,17 @@ function Projects() {
             <ProjectCard
               imgPath={bitsOfCode}
               isBlog={false}
-              title="SQL & Python Gender Data Analysis Report"
-              description="My Contribution to a course organized by TechChange organization about Gender Data Inequality "
-              ghLink="https://github.com/rawendeveloper/Gender-Data-100"
-              demoLink="https://drive.google.com/file/d/1WZIwkNHzqYAMggK6nTGMakCOfeh9PTJO/view?usp=sharing"
-            />
+              title="IOT Home Automation System"
+              description="Developed a scalable home automation system allowing users to remotely monitor and control appliances via the Blynk IoT app."
+              ghLink="https://github.com/rawendeveloper/HomeAutomationSystem"            />
           </Col>
           <Col md={4} className="project-card">
             <ProjectCard
               imgPath={suicide}
               isBlog={false}
-              title="Breast Cancer Classifier"
-              description="Implementing a simple machine learning algorithm in Python using Scikit-learn with a database of breast cancer tumor information, using a Naive Bayes (NB) classifier that predicts whether or not a tumor is malignant or benign."
-              ghLink="https://github.com/rawendeveloper/breast_cancer_classifier/tree/main"
+              title="Andorid Complaint Management Application for Equipment BTS and IPMSAN"
+              description="Development of a Complaint Management Application for Equipment BTS and IPMSAN"
+              ghLink="https://github.com/rawendeveloper/AppTT"
               // demoLink="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" <--------Please include a demo link here
             />
           </Col>
@@ -58,11 +56,9 @@ function Projects() {
             <ProjectCard
               imgPath={leaf}
               isBlog={false}
-              title="Arduino Temperature & Humidity Sensor Predictor"
-              description="Using Tinkercad I simulated and coded a system that predicts Temperature & Humidity while sending messages to the user."
-              ghLink="https://github.com/rawendeveloper/temperature-humidity-sensor"
-              demoLink="https://www.tinkercad.com/things/h35gXVYQEeU-systeme-de-surveillance-dhumdite-de-sol-et-de-temperature-"
-            />
+              title="Breast Cancer Classifier"
+              description="Implementing a simple machine learning algorithm in Python using Scikit-learn with a database of breast cancer tumor information, using a Naive Bayes (NB) classifier that predicts whether or not a tumor is malignant or benign."
+              ghLink="https://github.com/rawendeveloper/breast_cancer_classifier/tree/main"            />
           </Col>
 
 
